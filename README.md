@@ -16,29 +16,6 @@ This repository holds beginner-friendly frontend and JavaScript examples used du
 
 ---
 
-## Repository Structure
-
-Each lesson or version lives in its own folder so files stay organized as the series grows:
-
-```text
-frontend-beginner/
-├── README.md
-├── ep-001-web-fundamentals-html-basics/
-├── ep-002-what-is-javascript/
-├── ep-003-primitives-operators-logic/
-├── ep-004-objects-value-vs-reference/
-├── ep-005-fundamentals-of-functions/
-├── ep-006-control-flow/
-├── ep-007-modern-functions/
-├── ep-008-execution-context/
-├── ep-009-call-stack-lexical-scope-scope-chain/
-└── versions/
-    └── v1-scope-and-context-samples/
-
-```
-
----
-
 ## How to Run the Samples
 
 1. **Clone or download the repository:**
