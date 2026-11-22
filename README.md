@@ -1,22 +1,3 @@
-Here is a **repository description** and a ready-to-use **`README.md` file** tailored for the beginner frontend code samples on **Wael Habbal (`@waelhabbaldev`)**.
-
----
-
-## Repository Name & Description
-
-* **Suggested Repo Name:** `frontend-beginner` (matches your series tag and stays clean for GitHub)
-* **Short Repo Description (for GitHub's "About" box):**
-> Beginner frontend & JavaScript code samples, versions, and exercises for the `frontend-beginner` series on YouTube (`@waelhabbaldev`).
-
-
-
----
-
-## `README.md` File
-
-Copy and save the following content as `README.md` in the root of your repository:
-
-```markdown
 # Frontend Beginner — Code Samples & Versions
 
 Companion code samples, step-by-step exercises, and version snapshots for the **`frontend-beginner`** series on YouTube by **Wael Habbal** (`@waelhabbaldev`).
